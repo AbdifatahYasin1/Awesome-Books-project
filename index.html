@@ -6,20 +6,21 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="css/style.css" />
     <title>Awesome Book</title>
+    <link rel="stylesheet" href="style.css">
   </head>
   <body>
-    <h1>Awesome books</h1>
-    <section id="data" class="data"></section>
+    <header class="header">
+      <h1>Awesome books</h1>
+    </header>
+    <div id="data" class="data"></div>
     <form id="form">
-      <input class="Title" type="text" placeholder="Book Title" required />
-      <br />
-      <br />
-      <input class="Author" type="text" placeholder=" Book Author" required />
-      <br />
-      <br />
-      <input class="submit" type="submit" value="Add + " class="submit" />
+      <input id="title" type="text" placeholder="Title" required /> <br>
+      <br>
+      <input id="author" type="text" placeholder="Author" required /> <br>
+      <br>
+      <input id="btn" type="submit" value="Add" class="btn" />
     </form>
 
-    <script src="App.js"></script>
+    <script src="script.js"></script>
   </body>
 </html>
