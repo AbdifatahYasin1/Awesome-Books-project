@@ -23,17 +23,21 @@
 
 👤 **Author1**
 
+- GitHub: [@Yaseen](https://github.com/AbdifatahYasin1)
+- Twitter: [@Yaseen](https://twitter.com/CabdifataaxYy)
+- LinkedIn: [@Yaseen]()
+
 👤 **Author2**
 
-- GitHub: [@Shareyar Abed](https://github.com/Shaheryar0054)
-- Twitter: [@Shareyar Abed](https://twitter.com/home)
-- LinkedIn: [Shareyar Abed](https://www.linkedin.com/in/shaheryar-abid-8758121b3/)
+- GitHub: [@Shareyar Abid](https://github.com/Shaheryar0054)
+- Twitter: [@Shareyar Abid](https://twitter.com/home)
+- LinkedIn: [@Shareyar Abid](https://www.linkedin.com/in/shaheryar-abid-8758121b3/)
 
 👤 **Author3**
 
-- GitHub: [@githubhandle](https://github.com/mrkamin)
-- Twitter: [@twitterhandle](https://twitter.com/Mohamma63974237)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mohammad-rafi-amin-63b4319b/)
+- GitHub: [@Mohammad Rafi Amin](https://github.com/mrkamin)
+- Twitter: [@Mohammad Rafi Amin](https://twitter.com/Mohamma63974237)
+- LinkedIn: [@Mohammad Rafi Amin](https://www.linkedin.com/in/mohammad-rafi-amin-63b4319b/)
 
 ## 🤝 Contributing
 
